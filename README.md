@@ -1,5 +1,3 @@
-# asphalt-art-project
-Yoshi Asphalt Project!
 # Unit 1 - Asphalt Art
 
 ## Introduction
