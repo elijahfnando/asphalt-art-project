@@ -26,7 +26,6 @@ Output:
 
 ![Screenshot 2024-09-11 12 53 46 PM](https://github.com/user-attachments/assets/7bba6357-cde8-4d2c-a806-9e6bb67dec6b)
 
->>>>>>> 68a9f480a743fcbb80ecc70f221c528fb1960492
 ## Reflection
 
 1. Describe your project.
