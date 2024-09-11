@@ -20,10 +20,13 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 Sketch:
 ![Screenshot 2024-09-11 1 02 20 PM](https://github.com/user-attachments/assets/29673ca4-8ff9-4ea2-b92f-16df9fccda30)
 
+
+
 Output:
 
 ![Screenshot 2024-09-11 12 53 46 PM](https://github.com/user-attachments/assets/7bba6357-cde8-4d2c-a806-9e6bb67dec6b)
 
+>>>>>>> 68a9f480a743fcbb80ecc70f221c528fb1960492
 ## Reflection
 
 1. Describe your project.
